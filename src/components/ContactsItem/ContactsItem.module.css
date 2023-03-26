@@ -1,0 +1,23 @@
+.item {
+  display: flex;
+  align-items: center;
+  padding: 10px 5px 10px 5px;
+  justify-content: space-between;
+  border-bottom: 1px solid black;
+}
+
+.contact {
+  display: block;
+  margin: 0;
+  /* width: 200px; */
+}
+.button {
+  border-radius: 5px;
+  font-size: 18px;
+}
+
+.button:hover,
+.button:focus {
+  border-color: red;
+  border-width: 3px;
+}

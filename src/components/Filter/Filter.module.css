@@ -1,0 +1,17 @@
+.filterEl {
+  display: block;
+  margin: 0 auto;
+  padding: 20px 40px 10px 40px;
+  text-align: center;
+  width: 400px;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.filterInput {
+  display: block;
+  margin: 0 auto;
+  margin-top: 10px;
+  font-size: 18px;
+  border-radius: 5px;
+}

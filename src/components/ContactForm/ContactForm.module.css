@@ -1,0 +1,33 @@
+.form {
+  padding: 10px 20px 10px 20px;
+  background-color: black;
+  text-align: left;
+}
+
+.contactName,
+.contactTel {
+  text-align: left;
+  color: white;
+  font-size: 18px;
+}
+
+.contactNameInput,
+.contactTelInput {
+  display: block;
+  font-size: 18px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+
+.createBtn {
+  margin-top: 20px;
+  font-size: 18px;
+  border-radius: 5px;
+  padding: 5px 10px;
+  font-weight: 700;
+}
+
+.createBtn:hover,
+.createBtn:focus {
+  box-shadow: 0px 0px 10px 2px rgba(255, 255, 255, 1);
+}
